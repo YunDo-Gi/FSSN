@@ -1,9 +1,9 @@
 # :package:  Full-Stack Service Networking Project
-`Development Language`: C++
+`Development Language`: C++ </br>
 `Chapter`: Chapter_4 Socket
 
 ## :construction: **Changes from the plan**
-~~Javascript을 기반으로 한 ZMQ 구현~~
+~~Javascript을 기반으로 한 ZMQ 구현~~ </br>
 **C++을 기반으로 한 Socket 구현**
 
 ## Overview
